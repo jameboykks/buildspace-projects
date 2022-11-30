@@ -69,4 +69,4 @@ This project is broken up into 4 sections. You can see what section you're on by
 
 Let's get you some open-source rep!!!
 
-At the very least, drop a ⭐ on the repo if you're feeling fancy!
+At the very least, drop a ⭐ on the repo if you're feeling fancy
